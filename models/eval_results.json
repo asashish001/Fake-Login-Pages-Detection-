@@ -1,0 +1,11 @@
+{
+  "threshold": 0.4,
+  "confusion_matrix": {
+    "TN_real": 69,
+    "FP_real_as_phishing": 93,
+    "FN_phishing_as_real": 14,
+    "TP_phishing": 160
+  },
+  "roc_auc": 0.7838087129274868,
+  "f1_score_phishing": 0.7494145199063232
+}
